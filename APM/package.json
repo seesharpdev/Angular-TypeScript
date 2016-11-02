@@ -1,0 +1,24 @@
+{
+  "name": "apm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.1.0-dev.20161020",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seesharpdev/Angular-TypeScript.git"
+  },
+  "author": "Carlos Souto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seesharpdev/Angular-TypeScript/issues"
+  },
+  "homepage": "https://github.com/seesharpdev/Angular-TypeScript#readme"
+}
